@@ -1,0 +1,1 @@
+print("ramu is a good boy")
